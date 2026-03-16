@@ -156,15 +156,17 @@ Enter transaction details and check fraud prediction.
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+<img width="1657" height="586" alt="image" src="https://github.com/user-attachments/assets/4eca9ede-2f33-4deb-a332-afc8d8e711db" />
+
+
+### Login Page
+
+<img width="1444" height="611" alt="image" src="https://github.com/user-attachments/assets/99f45266-bb4c-4556-b08c-b0769c3408a1" />
+
 
 ### Transaction Input Form
 
-![Input Form](screenshots/input.png)
-
-### Fraud Prediction Result
-
-![Prediction Result](screenshots/result.png)
+<img width="762" height="859" alt="image" src="https://github.com/user-attachments/assets/da4ebe29-8110-4c0d-b24f-2a8f2b1f108b" />
 
 ---
 
