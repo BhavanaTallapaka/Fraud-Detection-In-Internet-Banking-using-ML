@@ -136,17 +136,11 @@ run.py
 
 Clone the repository: git clone https://github.com/BhavanaTallapaka/Fraud-Detection-In-Internet-Banking-using-ML.git
 
-Install dependencies
+Install dependencies: pip install flask pandas numpy scikit-learn matplotlib seaborn
 
-pip install flask pandas numpy scikit-learn matplotlib seaborn
+Run the application: python run.py
 
-Run the application
-
-python run.py
-
-Open the browser
-
-http://127.0.0.1:5000
+Open the browser: http://127.0.0.1:5000
 
 Enter transaction details and check fraud prediction.
 
